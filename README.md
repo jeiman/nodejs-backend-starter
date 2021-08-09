@@ -1,7 +1,5 @@
 # Nodejs Backend Starter
 
-[![Sonarcloud Status](https://sonarcloud.io/api/project_badges/measure?project=jeiman_nodejs-backend-starter&metric=alert_status)](https://sonarcloud.io/dashboard?id=jeiman_nodejs-backend-starter)
-
  [![Sonarcloud Status](https://sonarcloud.io/api/project_badges/measure?project=jeiman_nodejs-backend-starter&metric=alert_status)](https://sonarcloud.io/dashboard?id=jeiman_nodejs-backend-starter) 
  [![SonarCloud Coverage](https://sonarcloud.io/api/project_badges/measure?project=jeiman_nodejs-backend-starter&metric=coverage)](https://sonarcloud.io/component_measures/metric/coverage/list?id=jeiman_nodejs-backend-starter)
  [![SonarCloud Bugs](https://sonarcloud.io/api/project_badges/measure?project=jeiman_nodejs-backend-starter&metric=bugs)](https://sonarcloud.io/component_measures/metric/reliability_rating/list?id=jeiman_nodejs-backend-starter)
