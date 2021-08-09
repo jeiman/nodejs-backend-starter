@@ -17,6 +17,5 @@ module.exports = (db) => {
   `;
 
   db.run(createRideTableSchema);
-
   return db;
 };
