@@ -1,5 +1,7 @@
 # Nodejs Backend Starter
 
+[![Sonarcloud Status](https://sonarcloud.io/api/project_badges/measure?project=jeiman_nodejs-backend-starter&metric=alert_status)](https://sonarcloud.io/dashboard?id=jeiman_nodejs-backend-starter)
+
 ## How to run
 
 1. Fork this repository
